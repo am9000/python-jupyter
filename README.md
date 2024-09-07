@@ -1,1 +1,1 @@
-# python-jupyther
+# python-jupyter
